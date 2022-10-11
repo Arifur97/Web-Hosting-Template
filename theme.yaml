@@ -1,0 +1,5 @@
+name: "X-DATA"
+description: "WHMCS7 & HTML5 Powerful Web Hosting Template"
+author: "WHMCSdes"
+properties:
+  serverSidePagination: false # Defines client side will handle pagination
